@@ -13,7 +13,7 @@ mengambil seluruh judul ta dari [sini](http://repository.its.ac.id/view/year/)
 - python scraper.py
     - membuat csv of judul 
 - python `generate_rnn.py`
-    - ```python 
+    ```python 
     model_cfg = {rnn_bidirectional=True,
                 rnn_layers=12,
                 rnn_size=128,
@@ -25,7 +25,7 @@ mengambil seluruh judul ta dari [sini](http://repository.its.ac.id/view/year/)
 
 ## trained models
 - [gpt2](https://drive.google.com/drive/folders/1vLNCp4ZcMxwUL6FXM6NKl5gk3xuD97fR?usp=sharing)
-- [bilstm[](https://drive.google.com/drive/folders/1ZS8vqgzinzR91XBYlHj5kNC3zk3nAiHC?usp=sharing)
+- [bilstm](https://drive.google.com/drive/folders/1ZS8vqgzinzR91XBYlHj5kNC3zk3nAiHC?usp=sharing)
 
 ## hasil 
 ```bash
