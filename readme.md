@@ -23,6 +23,10 @@ mengambil seluruh judul ta dari [sini](http://repository.its.ac.id/view/year/)
 - python 'generator.py` 
     - gpt2 with 1000 iterations
 
+## trained models
+- [gpt2](https://drive.google.com/drive/folders/1vLNCp4ZcMxwUL6FXM6NKl5gk3xuD97fR?usp=sharing)
+- [bilstm[](https://drive.google.com/drive/folders/1ZS8vqgzinzR91XBYlHj5kNC3zk3nAiHC?usp=sharing)
+
 ## hasil 
 ```bash
 Training new model w/ 4-layer, 128-cell Bidirectional LSTMs
