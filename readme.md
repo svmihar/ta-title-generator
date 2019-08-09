@@ -12,8 +12,16 @@ mengambil seluruh judul ta dari [sini](http://repository.its.ac.id/view/year/)
 - pipenv shell 
 - python scraper.py
     - membuat csv of judul 
-- python modeler
-    - fine tuning dan train parameter dari lstm 
+- python `generate_rnn.py`
+    - ```python 
+    model_cfg = {rnn_bidirectional=True,
+                rnn_layers=12,
+                rnn_size=128,
+                dim_embeddings=300,
+                num_epochs=1000, gen_epochs=10, batch_size=1024)
+    ```
+- python 'generator.py` 
+    - gpt2 with 1000 iterations
 
 ## hasil 
 ```bash
